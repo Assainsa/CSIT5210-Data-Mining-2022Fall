@@ -23,3 +23,6 @@ python finetune.py -d Scientific -p saved/UniSRec-FHCKM-300.pth --train_stage=in
 ```
 replace `Scientific` to `Pantry`, `Instruments`, `Arts`, `Office` or `OR` to reproduce the results on paper.
 replace inductive_ft to trasductive_ft to fintune with ID.
+
+
+MOCO in `unisrec.py` and the SimCLR in `unisrec_ori.py`
