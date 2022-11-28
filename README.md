@@ -7,7 +7,8 @@ pytorch==1.11.0
 ```
 
 ## Download Datasets and Pre-trained Model
-The datasets and the pre-trained model from [Google Drive](https://drive.google.com/drive/folders/1Uik0fMk4oquV_bS9lXTZuExAYbIDkEMW?usp=sharing
+The datasets and the pre-trained model from [Google Drive](https://drive.google.com/drive/folders/1Uik0fMk4oquV_bS9lXTZuExAYbIDkEMW?usp=sharing)
+
 for the pretrain model, after unzipping, move `UniSRec-FHCKM-300.pth` to `saved/`
 
 ## Pre-train
